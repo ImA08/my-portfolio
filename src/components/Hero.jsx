@@ -18,7 +18,7 @@ function Hero() {
       <Navbar />
       <main
         id="home"
-        className="flex flex-col md:flex-row items-center justify-center w-full px-4 md:px-52 pb-4 md:pb-24 md:pt-32 pt-24 mt-14 md:mt-0 z-10"
+        className="flex flex-col md:flex-row items-center justify-center w-full px-4 min-lg:px-52 sm:px-6 pb-4 md:pb-24 md:pt-32 pt-24 mt-14 md:mt-0 z-10"
       >
         <section
           className="flex-1 mr-28 md:text-left mt-10 md:mt-0 relative"
@@ -60,7 +60,7 @@ function Hero() {
           
         </section>
         <figure data-aos='fade-up' data-aos-delays='500' className="flex-1 flex justify-center md:justify-end mt-0">
-        <img src={pythonImg} alt="" className="h-[300px] sm:h-[400px] md:h-[485px] w-[250px] sm:w-[480px]" />
+        <img src={coding1} alt="" className="h-[300px] sm:h-[400px] md:h-[485px] w-[250px] sm:w-[480px]" />
         </figure>
       </main>
     </div>
