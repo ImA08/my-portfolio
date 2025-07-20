@@ -14,7 +14,7 @@ function AboutMe() {
       <div className="max-w-6xl w-full grid grid-cols-1 lg:grid-cols-2 gap-8 sm:gap-12 items-center">
         <figure
           data-aos="fade-right"
-          data-aos-delays="500"
+          data-aos-delay="500"
           className="flex flex-wrap justify-center gap-4 relative"
         >
           <div className="h-[200px] sm:h-[300px] w-[300px] sm:w-[400px] lg:h-[300px] lg:w-[500px] bg-gradient-to-l from-[#203669] via-[#1e3a8a] to-[#0ea5e9] absolute transform rotate-12 z-0 right-5 -top-2 md:top-10 rounded-full"></div>
@@ -36,7 +36,7 @@ function AboutMe() {
         </figure>
         <article
           data-aos="fade-right"
-          data-aos-delays="500"
+          data-aos-delay="500"
           className="text-center lg:text-left relative"
         >
           <div className="absolute z-0 w-40 h-40 sm:w-60 sm:h-60 bg-[#2154e0] rounded-full blur-3xl opacity-50 -top-5 left-10"></div>
