@@ -19,7 +19,7 @@ function Skills() {
     { id: 4, image: redis, title: "Redis" },
     { id: 5, image: js, title: "JavaScript" },
     { id: 6, image: nodejs, title: "Node Js" },
-    { id: 7, image: docker, title: "Mongo DB" },
+    { id: 7, image: docker, title: "Docker" },
     { id: 8, image: typescript, title: "Typescript" },
   ];
 
@@ -44,7 +44,7 @@ function Skills() {
       >
         <header>
           <h1 className="text-3xl sm:text-4xl font-bold">
-            My Experise <br /> and
+            My Expertise <br /> and
             <span className="text-blue-600"> Skills</span>
           </h1>
           <p className="text-gray-400 mt-2 sm:mt-4 text-sm sm:text-base">
