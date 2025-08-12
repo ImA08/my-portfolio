@@ -4,7 +4,6 @@ import aboutme2 from "../../public/network-80.svg";
 import aboutme3 from "../../public/bug-fixing-60.svg";
 import aboutme4 from "../../public/user-interface-1-100.svg";
 
-
 function AboutMe() {
   return (
     <section
@@ -45,14 +44,13 @@ function AboutMe() {
               About Me
             </h1>
           </header>
-          <p className="text-base sm:text-lg md:text-xl text-gray-300 mb-6 sm:mb-8 leading-relaxed">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veritatis
-            voluptas laudantium neque, magni perspiciatis corrupti expedita
-            facilis eveniet impedit accusantium quaerat asperiores explicabo
-            blanditiis consequatur commodi in fuga autem dignissimos! In
-            perspiciatis laudantium, iste nihil id tempora repellendus,
-            consectetur delectus minima nam culpa enim, voluptatibus nisi
-            expedita ipsum! Ducimus, maxime!
+          <p className="text-base sm:text-lg sm:text-justify text-left md:text-xl text-gray-300 mb-6 sm:mb-8 leading-relaxed">
+            Hi! I'm Imanul Aufa, a passionate software developer with a focus on
+            building clean, efficient, and user-friendly applications. With a
+            strong foundation in backend and frontend development, I love
+            turning complex problems into simple, functional solutions.<br />
+            I'm always eager to learn new technologies and take on challenges that push my skills forward. Whether it's crafting responsive interfaces or designing robust APIs, I aim to create meaningful digital experiences that have real-world impact.<br />
+            Outside of coding, I enjoy exploring new ideas, collaborating on projects, and constantly growing both personally and professionally.
           </p>
           <footer>
             <button className="inline-flex text-white border-2 py-2 px-4 sm:px-6 focus:outline-none hover:bg-[#2a4d9b] hover:shadow-[0_0_40px_rgba(128,0,128,0.75)] rounded-full text-sm sm:text-lg">

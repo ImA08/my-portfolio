@@ -42,9 +42,11 @@ function Navbar() {
               {link.name}
             </a>
           ))}
+          <a href="#contact">
           <button className="inline-flex text-white border-2 py-2 px-6 focus:outline-none hover:bg-blue-800 rounded-full text-lg cursor-pointer">
             Contact
           </button>
+          </a>
         </nav>
         {/* MOBILE NAVIGATION */}
         <div
