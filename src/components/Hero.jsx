@@ -35,8 +35,7 @@ function Hero() {
               </h2>
             </header>
             <p className="text-base sm:text-lg md:text-lg text-gray-200 mb-6">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti,
-              excepturi.
+            Crafting scalable, user-friendly web applications from front to back.
             </p>
             <div className="flex items-center space-x-4 mb-6">
               <a href="#">

@@ -53,9 +53,9 @@ function AboutMe() {
             Outside of coding, I enjoy exploring new ideas, collaborating on projects, and constantly growing both personally and professionally.
           </p>
           <footer>
-            <button className="inline-flex text-white border-2 py-2 px-4 sm:px-6 focus:outline-none hover:bg-[#2a4d9b] hover:shadow-[0_0_40px_rgba(128,0,128,0.75)] rounded-full text-sm sm:text-lg">
+            {/* <button className="inline-flex text-white border-2 py-2 px-4 sm:px-6 focus:outline-none hover:bg-[#2a4d9b] hover:shadow-[0_0_40px_rgba(128,0,128,0.75)] rounded-full text-sm sm:text-lg">
               Learn More
-            </button>
+            </button> */}
           </footer>
         </article>
       </div>

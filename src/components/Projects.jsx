@@ -63,7 +63,7 @@ export default function Projects(){
             My <span className="text-blue-600">Projects</span>
           </h1>
         <p className="text-gray-400 mt-2 sm:mt-4 text-sm sm:text-base">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, sunt.
+        Highlights of my recent work in web development.
         </p>
         </header>
       </section>

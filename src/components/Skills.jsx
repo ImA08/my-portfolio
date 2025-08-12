@@ -35,7 +35,7 @@ function Skills() {
   );
   return (
     <section id="skills" className="relative min-h-screen overflow-hidden flex flex-col items-center justify-center text-white px-4 py-10">
-      <div className="absolute z-0 w-72 h-36 sm:w-96 sm:h-44 bg-[#2154e0] rounded-full blur-3xl opacity-50 top-10 sm:top-28 left-1/2 transform -translate-x-1/2"></div>
+      <div className="flex flex-col justify-center flex-grow absolute z-0 w-72 h-36 sm:w-96 sm:h-44 bg-[#2154e0] rounded-full blur-3xl opacity-50 top-10 sm:top-28 left-1/2 transform -translate-x-1/2"></div>
 
       <div
         data-aos="fade-up"
@@ -48,10 +48,7 @@ function Skills() {
             <span className="text-blue-600"> Skills</span>
           </h1>
           <p className="text-gray-400 mt-2 sm:mt-4 text-sm sm:text-base">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi,
-            nesciunt voluptas ipsum vero est distinctio eos! Velit atque
-            temporibus, repudiandae beatae sapiente accusamus commodi nobis quas
-            numquam nulla omnis, optio debitis rerum harum fuga libero?
+          These are the tools and technologies I work with to craft modern digital experiences.
           </p>
         </header>
         <section
