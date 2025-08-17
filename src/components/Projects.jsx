@@ -12,7 +12,7 @@ const ProjectsCard = ({ image, title, description, link }) => {
         <figure className="relative">
             <img src={image} alt={title} className="w-full h-48 object-cover transition-transform duration-300 group-hover:scale-110" />
             <a href={link} target="_blank" rel="noopener noreferrer"
-            className="absolute h-[202px] inset-0 flex items-center justify-center bg-[#2154e0] bg-opacity-20 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+            className="absolute h-[202px] inset-0 flex items-center justify-center bg-[#2154e0] bg-opacity-10 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
               <button className="bg-white font-medium text-black py-2 px-4 rounded-3xl shadow hover:text-white hover:bg-[#2879d5]">
                 Preview
               </button>
