@@ -38,19 +38,19 @@ export default function Projects(){
     {
       image:project1,
       title:'Portofolio Web',
-      description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit.',
+      description: 'An interactive personal website showcasing my profile, skills, and projects with a modern and responsive design.',
       link: '',
     },
     {
       image:project2,
       title:'Koda Kofi',
-      description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit.',
+      description: 'A web-based coffee ordering app with an interactive menu, fast checkout, and a user-friendly interface.',
       link: 'https://github.com/ImA08/kodakofi_client',
     },
     {
       image:project3,
       title:'Tickitz',
-      description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit.',
+      description: 'An online movie ticket booking platform that makes it easy for users to browse films, check schedules, and purchase tickets seamlessly.',
       link: 'https://github.com/ImA08/Tickitz',
     }
   ]
